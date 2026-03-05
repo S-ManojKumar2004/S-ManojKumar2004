@@ -42,7 +42,7 @@ I work on building, deploying, and maintaining scalable cloud and containerized 
 ---
 
 ## 🌐 Portfolio
-🔗 https://manojdevops.io
+🔗 https://s-manojkumar2004.github.io/NEW/
 
 ---
 
